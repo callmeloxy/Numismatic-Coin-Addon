@@ -1,4 +1,4 @@
-# CobbleSpawnAlert Reforged
+# Numismatic Coin Addon
 
 Choose your language / Choisissez votre langue
 
