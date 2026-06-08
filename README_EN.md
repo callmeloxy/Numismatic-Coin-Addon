@@ -1,4 +1,21 @@
+# Numismatic Coin Addon
 
+Addon for Numismatic Overhaul adding higher-tier coins, configurable currency behavior, and compatibility support for extended coin usage.
+
+## Overview
+
+Numismatic Coin Addon is a utility addon designed to extend the Numismatic Overhaul currency system with new higher-tier coins, configurable stack behavior, and compatibility features for mods and mechanics that rely on advanced coin handling.
+
+## Features
+
+- Higher-tier coins above Gold
+- Emerald Coin and Diamond Coin
+- Extended currency progression
+- Configurable Diamond Coin stack size
+- Compatibility with Numismatic CheesePurse
+- Coin conversion commands
+- Support for Minecraft `1.21.1`
+- Development targeting `Fabric`
 
 ## Public Repository Purpose
 
